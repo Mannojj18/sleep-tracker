@@ -76,14 +76,14 @@ const Guest = () => {
               &quot;SleepTracker has completely transformed my sleep schedule. I
               feel more energized every day!&quot;
             </p>
-            <p className='text-purple-500 font-bold'>- Sarah L.</p>
+            <p className='text-purple-500 font-bold'>- Lingangouda.</p>
           </div>
           <div className='bg-white p-6 rounded-md shadow'>
             <p className='text-gray-700 mb-4'>
               &quot;The insights from SleepTracker have helped me identify and
               fix my sleep issues. Highly recommend it!&quot;
             </p>
-            <p className='text-purple-500 font-bold'>- John D.</p>
+            <p className='text-purple-500 font-bold'>- Abhishek.</p>
           </div>
           <div className='bg-white p-6 rounded-md shadow'>
             <p className='text-gray-700 mb-4'>
@@ -91,7 +91,7 @@ const Guest = () => {
               It&#39;s a must-have for anyone looking to improve their
               sleep!&quot;
             </p>
-            <p className='text-purple-500 font-bold'>- Emily R.</p>
+            <p className='text-purple-500 font-bold'>- Shivraj.</p>
           </div>
         </div>
       </div>
