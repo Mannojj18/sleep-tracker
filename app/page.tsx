@@ -38,14 +38,14 @@ export default async function HomePage() {
                   <span className='font-semibold text-gray-800'>Joined:</span>{' '}
                   {new Date(user.createdAt).toLocaleDateString()}
                 </p>
-                <p className='text-gray-600'>
+                {/* <p className='text-gray-600'>
                   <span className='font-semibold text-gray-800'>
                     Last Active:
                   </span>{' '}
                   {user.lastActiveAt
                     ? new Date(user.lastActiveAt).toLocaleString()
                     : 'N/A'}
-                </p>
+                </p> */}
               </div>
             </div>
           </div>
